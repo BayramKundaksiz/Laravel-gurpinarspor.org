@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /redirect
+Disallow: /login
+Disallow: /register
+
+https://www.gurpinarspor.org/sitemap.xml
